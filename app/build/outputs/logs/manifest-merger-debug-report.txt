@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\8217ffab7c13e8363f1b9856568b60beb9586372\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\94093e842932e9cf0e740b76bd8747aa4394a3f2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\c1ba5f5de123673bdb4a894f69c2214c3d7c5852\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\a9fefed8550641038b88788ca724c15e4d3a0021\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\ae23b504b2421cb428745f52a39c7b96a7f9f8bc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\52d0fdfb5d30ad1ff0dec204f0b9f4ed957e4cca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\ca7a6bab2eff8d40edb76aa2b6552b25d585ef20\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\33d0589aec58af9ee1502163b382423254bb7799\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\95cd9259507abd98abdcb8ecf8d917fd2bcb8d75\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\642cb6d34cba96fa7c9eac02d99ca1b09c8ea9bb\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.zaraki.calculator.MainActivity
+ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\8217ffab7c13e8363f1b9856568b60beb9586372\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\94093e842932e9cf0e740b76bd8747aa4394a3f2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\c1ba5f5de123673bdb4a894f69c2214c3d7c5852\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\a9fefed8550641038b88788ca724c15e4d3a0021\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Android\.android\build-cache\23727a42738bbaa655a2b55f8cca4bb7c2e08c1f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Android\.android\build-cache\9f95cac989d782c8c5f8051631010b5b844a38ff\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\ae23b504b2421cb428745f52a39c7b96a7f9f8bc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\52d0fdfb5d30ad1ff0dec204f0b9f4ed957e4cca\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\ca7a6bab2eff8d40edb76aa2b6552b25d585ef20\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\33d0589aec58af9ee1502163b382423254bb7799\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\95cd9259507abd98abdcb8ecf8d917fd2bcb8d75\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\642cb6d34cba96fa7c9eac02d99ca1b09c8ea9bb\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\8217ffab7c13e8363f1b9856568b60beb9586372\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zaraki\Desktop\git files\Calculator\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\8217ffab7c13e8363f1b9856568b60beb9586372\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\94093e842932e9cf0e740b76bd8747aa4394a3f2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\c1ba5f5de123673bdb4a894f69c2214c3d7c5852\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\ae23b504b2421cb428745f52a39c7b96a7f9f8bc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\52d0fdfb5d30ad1ff0dec204f0b9f4ed957e4cca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\ca7a6bab2eff8d40edb76aa2b6552b25d585ef20\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\33d0589aec58af9ee1502163b382423254bb7799\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\95cd9259507abd98abdcb8ecf8d917fd2bcb8d75\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\642cb6d34cba96fa7c9eac02d99ca1b09c8ea9bb\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\8217ffab7c13e8363f1b9856568b60beb9586372\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\8217ffab7c13e8363f1b9856568b60beb9586372\output\AndroidManifest.xml:26:9-47

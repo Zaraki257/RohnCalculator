@@ -1,0 +1,7 @@
+#Mon Jul 17 00:15:25 IST 2017
+base.0=C\:\\Users\\Zaraki\\Desktop\\git files\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_091c03e63fe19f888e0463f915afadddc3bafcf1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zaraki\\Desktop\\git files\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7f77eb50ca537866f1addd27b492cf1470586398\\classes.dex
+base.1=C\:\\Users\\Zaraki\\Desktop\\git files\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7f77eb50ca537866f1addd27b492cf1470586398
+file.0=C\:\\Users\\Zaraki\\Desktop\\git files\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_091c03e63fe19f888e0463f915afadddc3bafcf1\\classes.dex

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.3.1">
+    <CLASSES>
+      <root url="file://C:/Android/.android/build-cache/9f95cac989d782c8c5f8051631010b5b844a38ff/output/res" />
+      <root url="jar://C:/Android/.android/build-cache/9f95cac989d782c8c5f8051631010b5b844a38ff/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/databinding/library/1.3.1/library-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
