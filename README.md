@@ -10,15 +10,35 @@ I learnt to make this app from android authority tutorial which you can easily f
 
 More things to edit in future.
 
+**_Update 1.0_**
+> Removed Titlebar for more space to textview.
+
+> Updated the whole view with new version of Contrain Layout 1.1.
+
+> Added barriers and chains for more userfriendly and multiple size screen compatibility.
+
+> Updated minSdk to 19(previous was 15) and comipleSdk and targetSdk to 27(previous was 25).
+
+> Changed all hardcoded string value into their respective strings folder.
+
+> Changed Orientation to fix potrait mode(will change it in future :wink:).
+
+> Added AutoScaling textview feature to input Text and results.
+
+> Much Cleaner git repository than previous ones
+
+_more updates comming soon._
+
+
 # Things needed to done in future :  
-1 TextView should not show +,-,*,/ and = any of this symbols and answer should be plain simple like real calculator.
+> TextView should not show +,-,*,/ and = any of this symbols and answer should be plain simple like real calculator.
 
-2 If any operation is performed without putting digits then it need to do by 0 or else show toast message to input no.
+> If any operation is performed without putting digits then it need to do by 0 or else show toast message to input no.
 
-3 '=' button pressed repeatdely should not show additional answer or NaN.
+> '=' button pressed repeatdely should not show additional answer or NaN.
 
-4 Most Imp : edit textview should have autoscaling text view as of in real calculaor.
+> ~~Most Imp : edit textview should have autoscaling text view as of in real calculaor.~~
 
-5 Add more functions.
+> Add more functions.
 
-Hope This Code helps you.
+Hope This Code helps you.:blush:
