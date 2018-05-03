@@ -13,7 +13,7 @@ More things to edit in future.
 **_Update 1.0_**
 > Removed Titlebar for more space to textview.
 
-> Updated the whole view with new version of Contrain Layout 1.1.
+> Updated the whole view with new version of Constraint Layout 1.1.
 
 > Added barriers and chains for more userfriendly and multiple size screen compatibility.
 
